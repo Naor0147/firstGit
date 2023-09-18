@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "JetBrains Mono,Consolas, 'Courier New', monospace",
+    "editor.renderWhitespace": "selection"
+    "editor.fontLigatures": true,
+
+    "terminal.integrated.fontFamily": "JetBrains Mono, source code pro"
+    
+    
+}
